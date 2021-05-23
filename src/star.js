@@ -7,12 +7,12 @@ const star = () => {
     // const element = document.getElementById('ratings');
     
     // while(num > 0){
-        var tag = document.createElement("li");
-        var text = document.createTextNode("Tutorix is the best e-learning platform");
-        tag.appendChild(text);
-        console.log(tag);
-        var element = document.getElementById("ratings");
-        element.appendChild(tag);
+        // var tag = document.createElement("li");
+        // var text = document.createTextNode("Tutorix is the best e-learning platform");
+        // tag.appendChild(text);
+        // console.log(tag);
+        // var element = document.getElementById("ratings");
+        // element.appendChild(tag);
     // }
 }
 

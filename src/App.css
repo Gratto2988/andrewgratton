@@ -2,8 +2,11 @@ body{
   background-color: #282c34;
   color:white;
   width: auto;
+  
 }
-
+html{
+  scroll-behavior: smooth;
+}
 /* intro to website */
 .intro{
   background-image: url("intro.jpg");
@@ -39,14 +42,6 @@ body{
 .row{
   width: auto;
 }
-
-/* .box{
-  background-color: teal;
-    max-width: 1000px;
-    height: 500px;
-    padding: 20px 20px 20px 20px;
-    margin: 20px auto 20px auto;
-} */
 
 .padStyle{
   padding: 20px;

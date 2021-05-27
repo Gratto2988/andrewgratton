@@ -1,6 +1,8 @@
-import star from './star';
+import React from 'react';
 
-const Skills = () => {
+import Star from './Star';
+
+const Skills = () => {        
     return(
         <div>
         <h2 className="padStyle"><center>My Skills</center></h2>
@@ -19,8 +21,13 @@ const Skills = () => {
              </ul>
             </div>
             <div className="col-md-4">
-                <ul id="ratings">
-                    {star()}
+                <ul className="ratings">
+                <Star star="4"/>
+                <Star star="4"/>
+                <Star star="4"/>
+                <Star star="3"/>
+                <Star star="3"/>
+                <Star star="3"/>
                 </ul>
             </div>
             <div className="col-md-2"></div>

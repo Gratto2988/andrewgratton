@@ -3,7 +3,7 @@ const nav = () => {
         <div className="menu ">
         <div className="nav-menu">
             <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
-                <a className="navbar-brand" href="#">Andrew Gratton</a>
+                <a className="navbar-brand" href="#home">Andrew Gratton</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                 <span className="navbar-toggler-icon"></span>
             </button>
@@ -15,11 +15,9 @@ const nav = () => {
                     <li className="nav-item">
                         <a className="nav-link" href="#education">Education</a>
                     </li>
+
                     <li className="nav-item">
-                        <a className="nav-link" href="#"></a>
-                    </li>
-                    <li className="nav-item">
-                        <a className="nav-link" href="#">Contact</a>
+                        <a className="nav-link" href="#contact">Contact</a>
                     </li>    
                     </ul>
                 </div>  

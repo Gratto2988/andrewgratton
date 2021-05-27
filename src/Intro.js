@@ -1,5 +1,3 @@
-import intro from './intro.jpg';
-
 const Intro = () => {
     return(
         <div className="intro">

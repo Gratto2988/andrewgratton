@@ -10,6 +10,7 @@ const Qual = () => {
             <div className="bc padStyle details">
 
             <table>
+                <tbody>
                 <tr>
                     <td>Applied Computing HNC (Higher National Diploma Level 5) (Distinction)</td>
                 </tr>
@@ -25,9 +26,11 @@ const Qual = () => {
 
                     </td>
                 </tr>
+                </tbody>
             </table>
                 <br></br>
             <table>
+                <tbody>
                 <tr>
                     <td>Applied Computing HNC (Higher National Certification Level 4) (Distinction)</td>
                 </tr>
@@ -45,9 +48,11 @@ const Qual = () => {
                          </ul>                        
                     </td>
                 </tr>
+                </tbody>
             </table>
                 <br></br>
             <table>
+                <tbody>
                 <tr>
                     <td>Technical Applied Computing Level 3</td>
                 </tr>
@@ -63,6 +68,7 @@ const Qual = () => {
                         </ul>
                     </td>
                 </tr>
+                </tbody>
             </table>
             </div>
         </div>

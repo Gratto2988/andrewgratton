@@ -3,7 +3,7 @@ import Nav from './Nav';
 import AboutMe from './AboutMe';
 import Skills from './Skills';
 import Qual from './Qual';
-//import Footer from './Footer';
+import Footer from './Footer';
 import './App.css';
 
 function App() {
@@ -14,6 +14,7 @@ function App() {
       <AboutMe/>
       <Qual/>
       <Skills/>
+      <Footer/>
     </div>
     
   );

@@ -1,6 +1,6 @@
 const Intro = () => {
     return(
-        <div className="intro">
+        <div id="home" className="intro">
             <div className="overlay">
                 <h1>Andrew Gratton</h1>
                 <p>Interactive CV</p>

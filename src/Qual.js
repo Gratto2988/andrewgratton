@@ -1,6 +1,7 @@
 const Qual = () => {
     return(
         <div id="education" className="row">
+            <div className="col-md-12 navPad"></div>
         <div className="col-md-2"></div>
 
         <div className="col-md-8">

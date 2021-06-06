@@ -1,7 +1,8 @@
 import me from './AG.png';
 const AboutMe = () => {
     return(
-        <div id="aboutme">
+        <div id="aboutme" >
+            <div className="col-md-12 navPad"></div>
             <div className="padStyle">
                 <h2 className="text-center">About me!</h2>
                 <p className="text-center">I'm a Web Developer</p>

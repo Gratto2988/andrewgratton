@@ -47,6 +47,15 @@ html{
   padding: 20px;
 } 
 
+.navPad{
+  padding: 2rem;
+} 
+
+
+.margStyle{
+  margin-bottom: 6rem;
+}
+
 .row{
   margin: auto;
 }
@@ -97,9 +106,51 @@ html{
 li{
   list-style-type: none;
   font-size: 1rem;
+
+}
+a, a:hover{
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .fa-star{
   font-size: 1rem;
   color: yellow;
+}
+
+/* Footer Styles */
+
+#contact{
+  background-color: #343a40;
+}
+
+.facebook{
+  font-size: 2rem;
+  transition: all 0.75s;
+}
+
+.facebook:hover{
+  color: #4267B2;
+  font-size: 3rem;
+}
+
+.instagram{
+  font-size: 2rem;
+  transition: all 0.75s;
+}
+
+.instagram:hover{
+  color:#C13584;
+  font-size: 3rem;
+}
+
+.linkedin {
+  font-size: 2rem;
+  transition: all 0.75s;
+}
+
+.linkedin:hover {
+  color:#2867B2;
+  font-size: 3rem;
+  margin-left: 50px;
 }

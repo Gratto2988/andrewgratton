@@ -118,6 +118,14 @@ a, a:hover{
   color: yellow;
 }
 
+/* My Skills */
+.skillTree{
+  margin: 0 auto;
+}
+.skillTree td{
+  padding: 1rem;
+}
+
 /* Footer Styles */
 
 #contact{

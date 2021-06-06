@@ -13,7 +13,7 @@ const Qual = () => {
             <table>
                 <tbody>
                 <tr>
-                    <td>Applied Computing HNC (Higher National Diploma Level 5) (Distinction)</td>
+                    <td>Applied Computing HND (Higher National Diploma Level 5) (Distinction)</td>
                 </tr>
                 <tr>
                     <td>

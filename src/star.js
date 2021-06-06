@@ -53,16 +53,3 @@ const Star = (props) => {
 }
 
 export default Star;
-
-//<li><i class='fas fa-star'></i></li>
-
-    // let ul = document.querySelector('.ratings');
-    // let li = document.createElement('li');
-
-    // for(let i = num; i > 0; i--){
-    //     let item = document.createElement('i');
-    //     item.classList.add("fas");
-    //     item.classList.add("fa-star");
-    //     li.appendChild(item);
-    //     ul.appendChild(li);
-    // }

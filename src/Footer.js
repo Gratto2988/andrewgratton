@@ -29,9 +29,9 @@ const Footer = () => {
                         <div className="row ">
                             <div className="col-xl-8 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
                                 <p className="social text-muted mb-0 pb-0 bold-text"> 
-                                <span className="mx-2 facebook"><i className="fab fa-facebook-square"></i></span>
-                                <span className="mx-2 instagram"><i className="fab fa-instagram"></i></span>
-                                <span className="mx-2 linkedin" ><i className="fab fa-linkedin"></i></span>
+                                <a href="https://www.facebook.com/Gratto2988"><span className="mx-2 facebook"><i className="fab fa-facebook-square"></i></span></a>
+                                <a href="https://www.instagram.com/andyg2988/"><span className="mx-2 instagram"><i className="fab fa-instagram"></i></span></a>
+                                <a href="https://www.linkedin.com/in/andrew-gratton-98a05a165/"><span className="mx-2 linkedin" ><i className="fab fa-linkedin"></i></span></a>
                                 </p>
                                 <p><span>&#174; </span>All Rights Reserved.</p>
                             </div>

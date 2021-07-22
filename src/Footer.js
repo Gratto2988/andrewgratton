@@ -38,7 +38,7 @@ const Footer = () => {
                             
                             <div className="col-xl-4 col-md-4 col-sm-4 col-auto order-1 align-self-end " style={{marginTop: "1rem"}}>
                                 <h6 className="mt-55 mt-2 text-muted bold-text"><b>Email</b> <i className="fa fa-envelope" aria-hidden="true"></i></h6>
-                                <p> agratton2988@googlemail.com</p>
+                                <a href="mailto:agratton2988@googlemail.com"><p> agratton2988@googlemail.com</p></a>
                             </div>
                         </div>
                     </div>
